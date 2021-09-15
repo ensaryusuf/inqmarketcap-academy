@@ -11,7 +11,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "node": "^14.15.4",
+    "node": "14.15.4",
     "@svgr/webpack": "^5.4.0",
     "animate.css": "^4.1.1",
     "classnames": "^2.2.6",
