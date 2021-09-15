@@ -1,6 +1,9 @@
 {
   "name": "litrex-academy",
   "version": "1.0.0",
+
+
+
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -8,6 +11,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "node": "^14.15.4",
     "@svgr/webpack": "^5.4.0",
     "animate.css": "^4.1.1",
     "classnames": "^2.2.6",
